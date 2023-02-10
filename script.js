@@ -145,9 +145,10 @@ Possible combinations: ${results.sort((a, b) => a - b)}`
   }
 };
 
-sacredGeometryGenerator(1, 1, 2, 3);
-sacredGeometryGenerator(1, 2, 3, 4);
-sacredGeometryGenerator(1, 4, 5, 6);
-sacredGeometryGenerator(1, 1, 5, 5);
-sacredGeometryGenerator(1, 5, 5, 1);
-sacredGeometryGenerator(9, 5, 1, 5);
+// sacredGeometryGenerator(1, 1, 2, 3);
+// sacredGeometryGenerator(1, 2, 3, 4);
+// sacredGeometryGenerator(1, 4, 5, 6);
+// sacredGeometryGenerator(1, 1, 5, 5);
+// sacredGeometryGenerator(1, 5, 5, 1);
+// sacredGeometryGenerator(9, 5, 1, 5);
+sacredGeometryGenerator(4, 1, 1, 2, 5);
